@@ -9,7 +9,7 @@
 # **This Repo is not _Working_ don't fork_don't deploy**
 For more info a >.
 
-[![Zɪʏᴀᴀᴅ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/SIYAAD-MUSIC)
+[![Zɪʏᴀᴀᴅ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/mosiamk)
 
 
 tags <font size="5">  don't fork this repo it's not working </font>
