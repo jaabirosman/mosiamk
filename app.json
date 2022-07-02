@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/e3584c03a4b9f1c64a435.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/jaabirosman/SIYAAD-MUSIC",
+  "repository": "https://github.com/jaabirosman/mosiamk",
   "stack": "container",
   "buildpacks": [
    {
