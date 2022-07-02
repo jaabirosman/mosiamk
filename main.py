@@ -1,5 +1,4 @@
 from pyrogram import Client as Bot
-
 from callsmusic import run
 from config import API_ID, API_HASH, BOT_TOKEN, SUDO_USERS
 
@@ -12,7 +11,7 @@ bot = Bot(
     plugins=dict(root="handlers")
 )
 
-print(f"[INFO]: ZIYAAD MUSIC VERSION 1.0 STARTED !")
+print(f"[INFO]: OSMANI MUSIC VERSION 1.0 STARTED !")
 
 bot.start()
 run()
