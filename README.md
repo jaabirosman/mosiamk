@@ -16,7 +16,7 @@ tags <font size="5">  don't fork this repo it's not working </font>
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/teamosmani"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/osmanigroupbot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/osmanigroupbot"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/teamosmani"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 Made with 💕 by [Owner](https://t.me/ribajosmani). <br />
@@ -30,12 +30,6 @@ Different ways to get your `SESSION`:
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
 
-### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
-- Veez Music
-- Daisy
-- Zaid
-- PyroGram
--xyz ⚡
 
 
 Contact me [HERE](https://t.me/neribaj)
